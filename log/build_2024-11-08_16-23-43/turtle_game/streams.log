@@ -1,0 +1,18 @@
+[0.345s] Invoking command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build --no-deps symlink_data
+[0.491s] running develop
+[0.491s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.491s]   warnings.warn(
+[0.574s] running egg_info
+[0.574s] writing turtle_game.egg-info/PKG-INFO
+[0.574s] writing dependency_links to turtle_game.egg-info/dependency_links.txt
+[0.574s] writing entry points to turtle_game.egg-info/entry_points.txt
+[0.574s] writing requirements to turtle_game.egg-info/requires.txt
+[0.574s] writing top-level names to turtle_game.egg-info/top_level.txt
+[0.575s] reading manifest file 'turtle_game.egg-info/SOURCES.txt'
+[0.576s] writing manifest file 'turtle_game.egg-info/SOURCES.txt'
+[0.576s] running build_ext
+[0.577s] Creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle-game.egg-link (link to .)
+[0.577s] 
+[0.577s] Installed /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game
+[0.577s] running symlink_data
+[0.594s] Invoked command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game' returned '0': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build --no-deps symlink_data

@@ -1,0 +1,56 @@
+[0.069s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame']
+[0.069s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7cdc36450a60>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7cdc365b46d0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7cdc365b46d0>>)
+[0.196s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.196s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.196s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.196s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.196s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.196s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'colcon_meta'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['ros']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'ros'
+[0.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['cmake', 'python']
+[0.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'cmake'
+[0.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'python'
+[0.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extensions ['python_setup_py']
+[0.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame) by extension 'python_setup_py'
+[0.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build) by extensions ['ignore', 'ignore_ament_install']
+[0.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build) by extension 'ignore'
+[0.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build) ignored
+[0.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install) by extensions ['ignore', 'ignore_ament_install']
+[0.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install) by extension 'ignore'
+[0.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install) ignored
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/log) by extensions ['ignore', 'ignore_ament_install']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/log) by extension 'ignore'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/log) ignored
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['ignore', 'ignore_ament_install']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'ignore'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'ignore_ament_install'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['colcon_pkg']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'colcon_pkg'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['colcon_meta']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'colcon_meta'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['ros']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'ros'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['cmake', 'python']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'cmake'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'python'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extensions ['python_setup_py']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src) by extension 'python_setup_py'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extensions ['ignore', 'ignore_ament_install']
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extension 'ignore'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extension 'ignore_ament_install'
+[0.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extensions ['colcon_pkg']
+[0.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extension 'colcon_pkg'
+[0.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extensions ['colcon_meta']
+[0.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extension 'colcon_meta'
+[0.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extensions ['ros']
+[0.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game) by extension 'ros'
+[0.213s] DEBUG:colcon.colcon_core.package_identification:Package '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game' with type 'ros.ament_python' and name 'turtle_game'
+[0.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

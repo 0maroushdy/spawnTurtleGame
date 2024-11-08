@@ -1,0 +1,3 @@
+[console_scripts]
+node1 = turtle_game.node1:main
+

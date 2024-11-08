@@ -1,0 +1,34 @@
+[0.343s] Invoking command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build
+[0.489s] running develop
+[0.489s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.489s]   warnings.warn(
+[0.571s] Removing /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle-game.egg-link (link to .)
+[0.587s] Invoked command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game' returned '0': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build
+[0.588s] Invoking command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_game build --build-base /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build install --record /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/install.log --single-version-externally-managed install_data --force
+[0.721s] running egg_info
+[0.721s] writing ../../build/turtle_game/turtle_game.egg-info/PKG-INFO
+[0.721s] writing dependency_links to ../../build/turtle_game/turtle_game.egg-info/dependency_links.txt
+[0.721s] writing entry points to ../../build/turtle_game/turtle_game.egg-info/entry_points.txt
+[0.721s] writing requirements to ../../build/turtle_game/turtle_game.egg-info/requires.txt
+[0.721s] writing top-level names to ../../build/turtle_game/turtle_game.egg-info/top_level.txt
+[0.722s] reading manifest file '../../build/turtle_game/turtle_game.egg-info/SOURCES.txt'
+[0.723s] writing manifest file '../../build/turtle_game/turtle_game.egg-info/SOURCES.txt'
+[0.723s] running build
+[0.723s] running build_py
+[0.723s] copying turtle_game/node1.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build/lib/turtle_game
+[0.723s] running install
+[0.723s] running install_lib
+[0.724s] creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game
+[0.724s] copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build/lib/turtle_game/__init__.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game
+[0.724s] copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build/lib/turtle_game/node1.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game
+[0.724s] byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game/__init__.py to __init__.cpython-310.pyc
+[0.724s] byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game/node1.py to node1.cpython-310.pyc
+[0.725s] running install_data
+[0.725s] copying resource/turtle_game -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/share/ament_index/resource_index/packages
+[0.725s] copying package.xml -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/share/turtle_game
+[0.725s] running install_egg_info
+[0.726s] Copying ../../build/turtle_game/turtle_game.egg-info to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle_game-0.0.0-py3.10.egg-info
+[0.726s] running install_scripts
+[0.740s] Installing node1 script to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/turtle_game
+[0.740s] writing list of installed files to '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/install.log'
+[0.755s] Invoked command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game' returned '0': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_game build --build-base /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build install --record /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/install.log --single-version-externally-managed install_data --force

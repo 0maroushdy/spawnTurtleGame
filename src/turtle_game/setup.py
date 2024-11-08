@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "node1 = turtle_game.node1:main"
         ],
     },
 )

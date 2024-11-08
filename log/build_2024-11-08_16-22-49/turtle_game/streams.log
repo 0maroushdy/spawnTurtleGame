@@ -1,0 +1,20 @@
+[0.345s] Invoking command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build --no-deps symlink_data --force
+[0.490s] running develop
+[0.492s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.492s]   warnings.warn(
+[0.573s] running egg_info
+[0.573s] writing turtle_game.egg-info/PKG-INFO
+[0.573s] writing dependency_links to turtle_game.egg-info/dependency_links.txt
+[0.573s] writing entry points to turtle_game.egg-info/entry_points.txt
+[0.573s] writing requirements to turtle_game.egg-info/requires.txt
+[0.573s] writing top-level names to turtle_game.egg-info/top_level.txt
+[0.574s] reading manifest file 'turtle_game.egg-info/SOURCES.txt'
+[0.575s] writing manifest file 'turtle_game.egg-info/SOURCES.txt'
+[0.575s] running build_ext
+[0.576s] Creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages/turtle-game.egg-link (link to .)
+[0.576s] 
+[0.576s] Installed /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game
+[0.576s] running symlink_data
+[0.576s] symbolically linking /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/resource/turtle_game -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/share/ament_index/resource_index/packages
+[0.576s] symbolically linking /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/package.xml -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/share/turtle_game
+[0.592s] Invoked command in '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game' returned '0': PYTHONPATH=/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/install/turtle_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/build/turtle_game/build --no-deps symlink_data --force
