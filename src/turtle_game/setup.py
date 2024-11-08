@@ -20,7 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "node1 = turtle_game.node1:main"
+            "controller = turtle_game.base_turtle_controller:main",
+            "spawner    = turtle_game.turtle_spawner:main",
+            "collision  = turtle_game.collision_detector:main",
         ],
     },
 )

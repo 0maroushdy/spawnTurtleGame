@@ -13,4 +13,7 @@ test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 turtle_game/__init__.py
+turtle_game/base_turtle_controller.py
+turtle_game/collision_detector.py
 turtle_game/node1.py
+turtle_game/turtle_spawner.py

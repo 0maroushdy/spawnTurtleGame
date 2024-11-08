@@ -1,0 +1,47 @@
+running egg_info
+creating build/turtle_game/turtle_game.egg-info
+writing build/turtle_game/turtle_game.egg-info/PKG-INFO
+writing dependency_links to build/turtle_game/turtle_game.egg-info/dependency_links.txt
+writing entry points to build/turtle_game/turtle_game.egg-info/entry_points.txt
+writing requirements to build/turtle_game/turtle_game.egg-info/requires.txt
+writing top-level names to build/turtle_game/turtle_game.egg-info/top_level.txt
+writing manifest file 'build/turtle_game/turtle_game.egg-info/SOURCES.txt'
+reading manifest file 'build/turtle_game/turtle_game.egg-info/SOURCES.txt'
+writing manifest file 'build/turtle_game/turtle_game.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+copying turtle_game/__init__.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+copying turtle_game/base_turtle_controller.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+copying turtle_game/collision_detector.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+copying turtle_game/node1.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+copying turtle_game/turtle_spawner.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game
+running install
+running install_lib
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game/__init__.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game/base_turtle_controller.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game/collision_detector.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game/node1.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+copying /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/build/lib/turtle_game/turtle_spawner.py -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game
+byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game/base_turtle_controller.py to base_turtle_controller.cpython-310.pyc
+byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game/collision_detector.py to collision_detector.cpython-310.pyc
+byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game/node1.py to node1.cpython-310.pyc
+byte-compiling /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+running install_data
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/share/ament_index
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/share/ament_index/resource_index
+creating /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/share/ament_index/resource_index/packages
+copying resource/turtle_game -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/share/ament_index/resource_index/packages
+copying package.xml -> /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/share/turtle_game
+running install_egg_info
+Copying build/turtle_game/turtle_game.egg-info to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/python3.10/site-packages/turtle_game-0.0.0-py3.10.egg-info
+running install_scripts
+Installing collision script to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/turtle_game
+Installing controller script to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/turtle_game
+Installing node1 script to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/turtle_game
+Installing spawner script to /home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/install/turtle_game/lib/turtle_game
+writing list of installed files to '/home/roushdy/torbedo/spawn_turtle_catch_game/spawnTurtleGame/src/turtle_game/build/turtle_game/install.log'
